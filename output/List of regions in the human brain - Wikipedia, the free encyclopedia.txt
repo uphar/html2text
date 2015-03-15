@@ -1,0 +1,637 @@
+# List of regions in the human brain
+
+From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+[Neuropsychology](/wiki/Neuropsychology)
+
+Topics
+
+  * **Brain regions**
+  * [Clinical neuropsychology](/wiki/Clinical_neuropsychology)
+  * [Cognitive neuropsychology](/wiki/Cognitive_neuropsychology)
+  * [Cognitive neuroscience](/wiki/Cognitive_neuroscience)
+  * [Dementia](/wiki/Dementia)
+  * [Human brain](/wiki/Human_brain)
+  * [Neuroanatomy](/wiki/Neuroanatomy)
+  * [Neurophysiology](/wiki/Neurophysiology)
+  * [Neuropsychological assessment](/wiki/Neuropsychological_assessment)
+  * [Neuropsychological rehabilitation](/wiki/Neuropsychological_rehabilitation)
+  * [Traumatic brain injury](/wiki/Traumatic_brain_injury)
+
+[Brain functions](/wiki/Brain_function)
+
+  * [Arousal](/wiki/Arousal)
+  * [Attention](/wiki/Attention)
+  * [Consciousness](/wiki/Consciousness)
+  * [Decision making](/wiki/Decision_making)
+  * [Executive functions](/wiki/Executive_functions)
+  * [Natural language](/wiki/Natural_language)
+  * [Learning](/wiki/Learning)
+  * [Memory](/wiki/Memory)
+  * [Motor coordination](/wiki/Motor_coordination)
+  * [Perception](/wiki/Perception)
+  * [Planning](/wiki/Planning)
+  * [Problem solving](/wiki/Problem_solving)
+  * [Thought](/wiki/Thought)
+
+People
+
+  * [Arthur L. Benton](/wiki/Arthur_L._Benton)
+  * [David Bohm](/wiki/David_Bohm)
+  * [Antonio Damasio](/wiki/Antonio_Damasio)
+  * [Phineas Gage](/wiki/Phineas_Gage)
+  * [Norman Geschwind](/wiki/Norman_Geschwind)
+  * [Elkhonon Goldberg](/wiki/Elkhonon_Goldberg)
+  * [Patricia Goldman Rakic](/wiki/Patricia_Goldman_Rakic)
+  * [Pasko Rakic](/wiki/Pasko_Rakic)
+  * [Donald O. Hebb](/wiki/Donald_O._Hebb)
+  * [Kenneth Heilman](/wiki/Kenneth_Heilman)
+  * [Edith Kaplan](/wiki/Edith_Kaplan)
+  * [Muriel Lezak](/wiki/Muriel_Lezak)
+  * [Benjamin Libet](/wiki/Benjamin_Libet)
+  * [Rodolfo Llinás](/wiki/Rodolfo_Llin%C3%A1s)
+  * [Alexander Luria](/wiki/Alexander_Luria)
+  * [Brenda Milner](/wiki/Brenda_Milner)
+  * [Karl H. Pribram](/wiki/Karl_H._Pribram)
+  * [Oliver Sacks](/wiki/Oliver_Sacks)
+  * [Mark Rosenzweig](/wiki/Mark_Rosenzweig)
+  * [Roger W. Sperry](/wiki/Roger_Wolcott_Sperry)
+  * [Hans-Lukas Teuber](/wiki/Hans-Lukas_Teuber)
+  * [Henry Molaison ("H.M.", patient)](/wiki/Henry_Molaison)
+  * [K.C. (patient)](/wiki/K.C._\(patient\))
+
+[Tests](/wiki/Neuropsychological_test)
+
+  * [Benton Visual Retention Test](/wiki/Benton_Visual_Retention_Test)
+  * [Continuous Performance Task](/wiki/Continuous_Performance_Task)
+  * [Halstead-Reitan Neuropsychological Battery](/wiki/Halstead-Reitan_Neuropsychological_Battery)
+  * [Hayling and Brixton tests](/wiki/Hayling_and_Brixton_tests)
+  * [Lexical Decision Task](/wiki/Lexical_decision_task)
+  * [Luria-Nebraska Neuropsychological battery](/wiki/Luria-Nebraska_Neuropsychological_battery)
+  * [Mini-Mental State Examination](/wiki/Mini-Mental_State_Examination)
+  * [Rey-Osterrieth Complex Figure](/wiki/Rey-Osterrieth_Complex_Figure)
+  * [Stroop Test](/wiki/Stroop_Test)
+  * [Wechsler Adult Intelligence Scale](/wiki/Wechsler_Adult_Intelligence_Scale)
+  * [Wechsler Memory Scale](/wiki/Wechsler_Memory_Scale)
+  * [Wisconsin Card Sorting Task](/wiki/Wisconsin_Card_Sorting_Task)
+
+[Mind and brain portal](/wiki/Portal:Mind_and_brain)
+
+  * [v](/wiki/Template:Neuropsychology)
+  * [t](/wiki/Template_talk:Neuropsychology)
+  * [e](//en.wikipedia.org/w/index.php?title=Template:Neuropsychology&action=edit)
+
+[Anatomical](/wiki/Anatomy) regions of the brain are listed vertically,
+following hierarchies that are standard in [neuroanatomy](/wiki/Neuroanatomy).
+[Functional](/wiki/Physiology),
+[connective](/wiki/Nervous_system#vertebrate_nervous_systems), and
+[developmental](/wiki/Embryology) regions are listed horizontally in
+parentheses where appropriate.
+
+## Contents
+
+  * 1 Hindbrain (Rhombencephalon)
+    * 1.1 Myelencephalon
+    * 1.2 Metencephalon
+  * 2 Midbrain (mesencephalon)
+  * 3 Forebrain (prosencephalon)
+    * 3.1 Diencephalon
+      * 3.1.1 Epithalamus
+      * 3.1.2 Third ventricle
+      * 3.1.3 Thalamus
+      * 3.1.4 Hypothalamus _(limbic system)_ _(HPA axis)_
+      * 3.1.5 Subthalamus_(HPA axis)_
+      * 3.1.6 Pituitary gland _(HPA axis)_
+    * 3.2 Telencephalon _(cerebrum)_ Cerebral hemispheres
+      * 3.2.1 White matter
+      * 3.2.2 Subcortical
+      * 3.2.3 Rhinencephalon _(paleopallium)_
+      * 3.2.4 Cerebral cortex _(neopallium)_
+  * 4 Neural pathways
+    * 4.1 Motor systems
+    * 4.2 Nerves
+  * 5 Neuroendocrine systems
+  * 6 Vascular systems
+  * 7 Dural meningeal system
+  * 8 Related topic
+  * 9 External links
+
+## [Hindbrain](/wiki/Rhombencephalon) (Rhombencephalon)[[edit](/w/index.php?ti
+tle=List_of_regions_in_the_human_brain&action=edit&section=1)]
+
+### [Myelencephalon](/wiki/Myelencephalon)[[edit](/w/index.php?title=List_of_r
+egions_in_the_human_brain&action=edit&section=2)]
+
+  * [Medulla oblongata](/wiki/Medulla_oblongata)
+    * [Medullary pyramids](/wiki/Medullary_pyramids)
+    * [Respiratory center](/wiki/Respiratory_center)
+    * [Olivary body](/wiki/Olivary_body)
+      * [Inferior olivary nucleus](/wiki/Inferior_olivary_nucleus)
+    * Medullary [cranial nerve nuclei](/wiki/Cranial_nerve_nuclei)
+      * [Inferior salivatory nucleus](/wiki/Inferior_salivatory_nucleus)
+      * [Nucleus ambiguus](/wiki/Nucleus_ambiguus)
+      * [Dorsal nucleus of vagus nerve](/wiki/Dorsal_nucleus_of_vagus_nerve)
+      * [Hypoglossal nucleus](/wiki/Hypoglossal_nucleus)
+      * [Solitary nucleus](/wiki/Solitary_nucleus)
+
+### [Metencephalon](/wiki/Metencephalon)[[edit](/w/index.php?title=List_of_reg
+ions_in_the_human_brain&action=edit&section=3)]
+
+  * [Pons](/wiki/Pons)
+    * Pontine [cranial nerve nuclei](/wiki/Cranial_nerve_nuclei)
+      * _chief_ or _pontine_ nucleus of the [trigeminal nerve](/wiki/Trigeminal_nerve) sensory nucleus (V)
+      * [Motor nucleus for the trigeminal nerve](/wiki/Motor_nucleus_for_the_trigeminal_nerve) (V)
+      * [Abducens nucleus](/wiki/Abducens_nucleus) (VI)
+      * [Facial nerve nucleus](/wiki/Facial_nerve_nucleus) (VII)
+      * [vestibulocochlear](/wiki/Vestibulocochlear_nerve) nuclei ([vestibular nuclei](/wiki/Vestibular_nuclei) and [cochlear nuclei](/wiki/Cochlear_nuclei)) (VIII)
+      * [Superior salivatory nucleus](/wiki/Superior_salivatory_nucleus)
+    * [Pontine tegmentum](/wiki/Pontine_tegmentum)
+      * Respiratory centres 
+        * [Pneumotaxic centre](/wiki/Pneumotaxic_centre)
+        * [Apneustic centre](/wiki/Apneustic_centre)
+      * [Locus coeruleus](/wiki/Locus_coeruleus)
+      * [Pedunculopontine nucleus](/wiki/Pedunculopontine_nucleus)
+      * [Laterodorsal tegmental nucleus](/wiki/Laterodorsal_tegmental_nucleus)
+      * [Tegmental pontine reticular nucleus](/wiki/Tegmental_pontine_reticular_nucleus)
+    * [Superior olivary complex](/wiki/Superior_olivary_complex)
+    * [Paramedian pontine reticular formation](/wiki/Paramedian_pontine_reticular_formation)
+    * [Cerebellar peduncles](/wiki/Cerebellar_peduncle_\(disambiguation\))
+      * [Superior cerebellar peduncle](/wiki/Superior_cerebellar_peduncle)
+      * [Middle cerebellar peduncle](/wiki/Middle_cerebellar_peduncle)
+      * [Inferior cerebellar peduncle](/wiki/Inferior_cerebellar_peduncle)
+  * [Fourth ventricle](/wiki/Fourth_ventricle)
+  * [Cerebellum](/wiki/Cerebellum)
+    * [Cerebellar vermis](/wiki/Cerebellar_vermis)
+    * [Cerebellar hemispheres](/wiki/Cerebellar_hemispheres)
+      * [Anterior lobe](/wiki/Anterior_lobe)
+      * [Posterior lobe](/wiki/Posterior_lobe)
+      * [Flocculonodular lobe](/wiki/Flocculonodular_lobe)
+    * [Cerebellar nuclei](/wiki/Cerebellar_nuclei)
+      * [Fastigial nucleus](/wiki/Fastigial_nucleus)
+      * [Globose nucleus](/wiki/Globose_nucleus)
+      * [Emboliform nucleus](/wiki/Emboliform_nucleus)
+      * [Dentate nucleus](/wiki/Dentate_nucleus)
+
+## [Midbrain](/wiki/Mesencephalon) (mesencephalon)[[edit](/w/index.php?title=L
+ist_of_regions_in_the_human_brain&action=edit&section=4)]
+
+  * [Tectum](/wiki/Tectum)
+    * [Corpora quadrigemina](/wiki/Corpora_quadrigemina)
+      * [inferior colliculi](/wiki/Inferior_colliculus)
+      * [superior colliculi](/wiki/Superior_colliculus)
+  * [Pretectum](/wiki/Pretectum)
+  * [Cerebral peduncle](/wiki/Cerebral_peduncle)
+    * [Tegmentum](/wiki/Tegmentum)
+      * [Ventral tegmental area](/wiki/Ventral_tegmental_area)
+      * [Red nucleus](/wiki/Red_nucleus)
+      * [Midbrain reticular formation](/wiki/Midbrain_reticular_formation)
+      * [Periaqueductal gray](/wiki/Periaqueductal_gray)
+    * [Substantia nigra](/wiki/Substantia_nigra)
+      * [Pars compacta](/wiki/Pars_compacta)
+      * [Pars reticulata](/wiki/Pars_reticulata)
+    * [Crus cerebri](/wiki/Crus_cerebri)
+    * [Interpeduncular nucleus](/wiki/Interpeduncular_nucleus)
+  * Mesencephalic [cranial nerve nuclei](/wiki/Cranial_nerve_nuclei)
+    * [Oculomotor nucleus](/wiki/Oculomotor_nucleus) (III)
+    * [Trochlear nucleus](/wiki/Trochlear_nucleus) (IV)
+  * [Mesencephalic duct](/wiki/Mesencephalic_duct) (cerebral aqueduct, aqueduct of Sylvius)
+
+## [Forebrain](/wiki/Prosencephalon) (prosencephalon)[[edit](/w/index.php?titl
+e=List_of_regions_in_the_human_brain&action=edit&section=5)]
+
+### [Diencephalon](/wiki/Diencephalon)[[edit](/w/index.php?title=List_of_regio
+ns_in_the_human_brain&action=edit&section=6)]
+
+#### [Epithalamus](/wiki/Epithalamus)[[edit](/w/index.php?title=List_of_region
+s_in_the_human_brain&action=edit&section=7)]
+
+  * [Pineal body](/wiki/Pineal_gland)
+  * [Habenular nuclei](/wiki/Habenular_nuclei)
+  * [Stria medullares](/wiki/Stria_medullares)
+  * [Taenia thalami](/wiki/Taenia_thalami)
+
+#### [Third ventricle](/wiki/Third_ventricle)[[edit](/w/index.php?title=List_o
+f_regions_in_the_human_brain&action=edit&section=8)]
+
+#### [Thalamus](/wiki/Thalamus)[[edit](/w/index.php?title=List_of_regions_in_t
+he_human_brain&action=edit&section=9)]
+
+  * [Anterior nuclear group](/wiki/Anterior_nuclear_group)
+    * [Anteroventral nucleus](/wiki/Anterior_nuclei_of_thalamus)
+    * [Anterodorsal nucleus](/wiki/Anterior_nuclei_of_thalamus)
+    * [Anteromedial nucleus](/wiki/Anterior_nuclei_of_thalamus)
+  * [Medial nuclear group](/wiki/Medial_nuclear_group)
+    * [Medial dorsal nucleus](/wiki/Medial_dorsal_nucleus)
+    * [Midline nuclear group](/wiki/Midline_nuclear_group)
+    * [Paratenial nucleus](/wiki/Paratenial_nucleus)
+    * [Reuniens nucleus](/wiki/Reuniens_nucleus)
+    * [Rhomboidal nucleus](/w/index.php?title=Rhomboidal_nucleus&action=edit&redlink=1)
+    * [Intralaminar nuclear group](/wiki/Intralaminar_nuclear_group)
+    * [Centromedial nucleus](/wiki/Centromedial_nucleus)
+    * [Parafascicular nucleus](/wiki/Parafascicular_nucleus)
+    * [Paracentral nucleus](/w/index.php?title=Paracentral_nucleus&action=edit&redlink=1)
+    * [Central lateral nucleus](/w/index.php?title=Central_lateral_nucleus&action=edit&redlink=1)
+    * [Central medial nucleus](/wiki/Central_medial_nucleus)
+  * [Lateral nuclear group](/wiki/Lateral_nuclear_group)
+    * [Lateral dorsal nucleus](/wiki/Lateral_dorsal_nucleus)
+    * [Lateral posterior nucleus](/wiki/Lateral_posterior_nucleus)
+    * [Pulvinar](/wiki/Pulvinar)
+  * [Ventral nuclear group](/wiki/Ventral_nuclear_group)
+    * [Ventral anterior nucleus](/wiki/Ventral_anterior_nucleus)
+    * [Ventral lateral nucleus](/wiki/Ventral_lateral_nucleus)
+    * [Ventral posterior nucleus](/wiki/Ventral_posterior_nucleus)
+      * [Ventral posterior lateral nucleus](/wiki/Ventral_posterior_lateral_nucleus)
+      * [Ventral posterior medial nucleus](/wiki/Ventral_posterior_medial_nucleus)
+  * [Metathalamus](/wiki/Metathalamus)
+    * [Medial geniculate body](/wiki/Medial_geniculate_body)
+    * [Lateral geniculate body](/wiki/Lateral_geniculate_body)
+  * [Thalamic reticular nucleus](/wiki/Thalamic_reticular_nucleus)
+
+#### [Hypothalamus](/wiki/Hypothalamus) _([limbic
+system](/wiki/Limbic_system))_ _([HPA axis](/wiki/HPA_axis))_[[edit](/w/index.
+php?title=List_of_regions_in_the_human_brain&action=edit&section=10)]
+
+  * Anterior 
+    * Medial area 
+      * Parts of [preoptic area](/wiki/Preoptic_area)
+        * Medial preoptic nucleus
+      * [Suprachiasmatic nucleus](/wiki/Suprachiasmatic_nucleus)
+      * [Paraventricular nucleus](/wiki/Paraventricular_nucleus)
+      * [Supraoptic nucleus](/wiki/Supraoptic_nucleus) (mainly)
+      * [Anterior hypothalamic nucleus](/wiki/Anterior_hypothalamic_nucleus)
+    * Lateral area 
+      * Parts of [preoptic area](/wiki/Preoptic_area)
+        * Lateral preoptic nucleus
+      * Anterior part of [Lateral nucleus](/wiki/Lateral_hypothalamus)
+      * Part of supraoptic nucleus
+    * Other nuclei of [preoptic area](/wiki/Preoptic_area)
+      * median preoptic nucleus
+      * periventricular preoptic nucleus
+  * Tuberal 
+    * Medial area 
+      * [Dorsomedial hypothalamic nucleus](/wiki/Dorsomedial_hypothalamic_nucleus)
+      * [Ventromedial nucleus](/wiki/Ventromedial_nucleus)
+      * [Arcuate nucleus](/wiki/Arcuate_nucleus)
+    * Lateral area 
+      * Tuberal part of [Lateral nucleus](/wiki/Lateral_hypothalamus)
+      * [Lateral tuberal nuclei](/w/index.php?title=Lateral_tuberal_nuclei&action=edit&redlink=1)
+  * Posterior 
+    * Medial area 
+      * Mammillary nuclei (part of [mammillary bodies](/wiki/Mammillary_body))
+      * [Posterior nucleus](/wiki/Posterior_nucleus_\(hypothalamus\))
+    * Lateral area 
+      * Posterior part of [Lateral nucleus](/wiki/Lateral_hypothalamus)
+  * [Optic chiasm](/wiki/Optic_chiasm)
+  * [Subfornical organ](/wiki/Subfornical_organ)
+  * [Periventricular nucleus](/wiki/Periventricular_nucleus)
+  * [Pituitary stalk](/wiki/Pituitary_stalk)
+  * [Tuber cinereum](/wiki/Tuber_cinereum)
+    * Tuberal nucleus
+    * [Tuberomammillary nucleus](/wiki/Tuberomammillary_nucleus)
+  * [Tuberal region](/w/index.php?title=Tuberal_region&action=edit&redlink=1)
+  * [Mammillary bodies](/wiki/Mammillary_bodies)
+  * [Mammillary nucleus](/w/index.php?title=Mammillary_nucleus&action=edit&redlink=1)
+
+#### [Subthalamus](/wiki/Subthalamus)_([HPA axis](/wiki/HPA_axis))_[[edit](/w/
+index.php?title=List_of_regions_in_the_human_brain&action=edit&section=11)]
+
+  * [Thalamic nucleus](/wiki/Thalamic_nucleus)
+  * [Zona incerta](/wiki/Zona_incerta)
+
+#### [Pituitary gland](/wiki/Pituitary_gland) _([HPA axis](/wiki/HPA_axis))_[[
+edit](/w/index.php?title=List_of_regions_in_the_human_brain&action=edit&sectio
+n=12)]
+
+  * [neurohypophysis](/wiki/Posterior_pituitary)
+  * [Intermediate pituitary](/w/index.php?title=Intermediate_pituitary&action=edit&redlink=1)
+  * [adenohypophysis](/wiki/Anterior_pituitary)
+
+### [Telencephalon _(cerebrum)_](/wiki/Telencephalon) [Cerebral hemispheres](/
+wiki/Cerebral_hemisphere)[[edit](/w/index.php?title=List_of_regions_in_the_hum
+an_brain&action=edit&section=13)]
+
+![](//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Brainlobes.svg/220px-
+Brainlobes.svg.png)
+
+  red: [frontal lobe](/wiki/Frontal_lobe)
+
+  orange: [parietal lobe](/wiki/Parietal_lobe)
+
+  yellow: [occipital lobe](/wiki/Occipital_lobe)
+
+  green: [temporal lobe](/wiki/Temporal_lobe)
+
+  blue: [cerebellum](/wiki/Cerebellum)
+
+  black: [brainstem](/wiki/Brainstem)
+
+#### [White matter](/wiki/White_matter)[[edit](/w/index.php?title=List_of_regi
+ons_in_the_human_brain&action=edit&section=14)]
+
+  * [Corona radiata](/wiki/Corona_radiata)
+  * [Internal capsule](/wiki/Internal_capsule)
+  * [External capsule](/wiki/External_capsule)
+  * [Extreme capsule](/wiki/Extreme_capsule)
+  * [Arcuate fasciculus](/wiki/Arcuate_fasciculus)
+  * [Uncinate fasciculus](/wiki/Uncinate_fasciculus)
+
+#### Subcortical[[edit](/w/index.php?title=List_of_regions_in_the_human_brain&
+action=edit&section=15)]
+
+  * [Hippocampus](/wiki/Hippocampus) ([Medial Temporal Lobe](/wiki/Medial_temporal_lobe)) 
+    * [Dentate gyrus](/wiki/Dentate_gyrus)
+    * [Cornu ammonis](/wiki/Cornu_ammonis) (CA fields) 
+      * [Cornu ammonis area 1](/w/index.php?title=Cornu_ammonis_area_1&action=edit&redlink=1)
+      * [Cornu ammonis area 2](/w/index.php?title=Cornu_ammonis_area_2&action=edit&redlink=1)
+      * [Cornu ammonis area 3](/w/index.php?title=Cornu_ammonis_area_3&action=edit&redlink=1)
+      * [Cornu ammonis area 4](/w/index.php?title=Cornu_ammonis_area_4&action=edit&redlink=1)
+  * [Amygdala](/wiki/Amygdala) _([limbic system](/wiki/Limbic_system))_ _([limbic lobe](/wiki/Limbic_lobe))_
+    * [Central nucleus](/wiki/Central_nucleus) _([autonomic nervous system](/wiki/Autonomic_nervous_system))_
+    * [Medial nucleus](/wiki/Medial_nucleus) _([accessory olfactory system](/wiki/Accessory_olfactory_system))_
+    * [Cortical](/w/index.php?title=Cortical_nucleus&action=edit&redlink=1) and [basomedial nuclei](/w/index.php?title=Basomedial_nuclei&action=edit&redlink=1) _([main olfactory system](/wiki/Main_olfactory_system))_
+    * [Lateral](/wiki/Lateral_nucleus)[_[disambiguation needed](http://dispenser.homenet.org/~dispenser/cgi-bin/dab_solver.py?page=List_of_regions_in_the_human_brain&editintro=Template:Disambiguation_needed/editintro&client=Template:Dn)_] and [basolateral nuclei](/w/index.php?title=Basolateral_nuclei&action=edit&redlink=1) _([frontotemporal cortical system](/w/index.php?title=Frontotemporal_cortical_system&action=edit&redlink=1))_
+  * [Claustrum](/wiki/Claustrum)
+  * [Basal ganglia](/wiki/Basal_ganglia)
+    * [Striatum](/wiki/Striatum)
+      * [Dorsal striatum](/wiki/Dorsal_striatum)
+        * [Putamen](/wiki/Putamen)
+        * [Caudate nucleus](/wiki/Caudate_nucleus)
+      * [Ventral striatum](/wiki/Ventral_striatum)
+        * [Nucleus accumbens](/wiki/Nucleus_accumbens)
+        * [Olfactory tubercle](/wiki/Olfactory_tubercle)
+    * [Globus pallidus](/wiki/Globus_pallidus) (forms [nucleus lentiformis](/wiki/Nucleus_lentiformis) with [putamen](/wiki/Putamen))
+    * [Subthalamic nucleus](/wiki/Subthalamic_nucleus)
+  * [Basal forebrain](/wiki/Basal_forebrain)
+    * [Anterior perforated substance](/wiki/Anterior_perforated_substance)
+    * [Substantia innominata](/wiki/Substantia_innominata)
+    * [Nucleus basalis](/wiki/Nucleus_basalis)
+    * [Diagonal band of Broca](/wiki/Diagonal_band_of_Broca)
+    * [Medial septal nuclei](/wiki/Medial_septal_nuclei)
+
+#### [Rhinencephalon](/wiki/Rhinencephalon) _([paleopallium](/wiki/Paleopalliu
+m))_[[edit](/w/index.php?title=List_of_regions_in_the_human_brain&action=edit&
+section=16)]
+
+  * [Olfactory bulb](/wiki/Olfactory_bulb)
+  * [Piriform cortex](/wiki/Piriform_cortex)
+  * [Anterior olfactory nucleus](/wiki/Anterior_olfactory_nucleus)
+  * [Olfactory tract](/wiki/Olfactory_tract)
+  * [Anterior commissure](/wiki/Anterior_commissure)
+  * [Uncus](/wiki/Uncus)
+
+#### [Cerebral cortex](/wiki/Cerebral_cortex) _([neopallium](/wiki/Neopallium)
+)_[[edit](/w/index.php?title=List_of_regions_in_the_human_brain&action=edit&se
+ction=17)]
+
+  * [Frontal lobe](/wiki/Frontal_lobe)
+    * Cortex 
+      * [Primary motor cortex](/wiki/Primary_motor_cortex) (Precentral gyrus, M1)
+      * [Supplementary motor cortex](/wiki/Supplementary_motor_cortex)
+      * [Premotor cortex](/wiki/Premotor_cortex)
+      * [Prefrontal cortex](/wiki/Prefrontal_cortex)
+    * [Gyri](/wiki/Gyri)
+      * [Superior frontal gyrus](/wiki/Superior_frontal_gyrus)
+      * [Middle frontal gyrus](/wiki/Middle_frontal_gyrus)
+      * [Inferior frontal gyrus](/wiki/Inferior_frontal_gyrus)
+    * [Brodmann areas](/wiki/Brodmann_area): [4](/wiki/Brodmann_area_4), [6](/wiki/Brodmann_area_6), [8](/wiki/Brodmann_area_8), [9](/wiki/Brodmann_area_9), [10](/wiki/Brodmann_area_10), [11](/wiki/Brodmann_area_11), [12](/wiki/Brodmann_area_12), [24](/wiki/Brodmann_area_24), [25](/wiki/Brodmann_area_25), [32](/wiki/Brodmann_area_32), [33](/wiki/Brodmann_area_33), [44](/wiki/Brodmann_area_44), [45](/wiki/Brodmann_area_45), [46](/wiki/Brodmann_area_46), [47](/wiki/Brodmann_area_47)
+  * [Parietal lobe](/wiki/Parietal_lobe)
+    * Cortex 
+      * [Primary somatosensory cortex](/wiki/Primary_somatosensory_cortex) (S1)
+      * [Secondary somatosensory cortex](/wiki/Secondary_somatosensory_cortex) (S2)
+      * [Posterior parietal cortex](/wiki/Posterior_parietal_cortex)
+    * [Gyri](/wiki/Gyri)
+      * [Postcentral gyrus](/wiki/Postcentral_gyrus) _[(Primary somesthetic area)](/wiki/Primary_sensory_cortex)_
+    * Other 
+      * [Precuneus](/wiki/Precuneus)
+    * [Brodmann areas](/wiki/Brodmann_area) [1](/wiki/Brodmann_area_1), [2](/wiki/Brodmann_area_2), [3](/wiki/Brodmann_area_3) _[(Primary somesthetic area)](/wiki/Primary_sensory_areas)_; [5](/wiki/Brodmann_area_5), [7](/wiki/Brodmann_area_7), [23](/wiki/Brodmann_area_23), [26](/wiki/Brodmann_area_26), [29](/wiki/Brodmann_area_29), [31](/wiki/Brodmann_area_31), [39](/wiki/Brodmann_area_39), [40](/wiki/Brodmann_area_40)
+  * [Occipital lobe](/wiki/Occipital_lobe)
+    * Cortex 
+      * [Primary visual cortex](/wiki/Primary_visual_cortex) (V1)
+      * [V2](/wiki/Visual_cortex#V2)
+      * [V3](/wiki/Visual_cortex#Third_visual_complex.2C_including_area_V3)
+      * [V4](/wiki/Visual_area_V4#V4)
+      * [V5/MT](/wiki/Visual_cortex#V5)
+    * [Gyri](/wiki/Gyri)
+      * [Lateral occipital gyrus](/w/index.php?title=Lateral_occipital_gyrus&action=edit&redlink=1)
+    * Other 
+      * [Cuneus](/wiki/Cuneus)
+    * [Brodmann areas](/wiki/Brodmann_area) [17 _(V1, primary visual cortex)_](/wiki/Brodmann_area_17)_; [18](/wiki/Brodmann_area_18), [19](/wiki/Brodmann_area_19)_
+  * [Temporal lobe](/wiki/Temporal_lobe)
+    * Cortex 
+      * [Primary auditory cortex](/wiki/Primary_auditory_cortex) (A1)
+      * [secondary auditory cortex](/w/index.php?title=Secondary_auditory_cortex&action=edit&redlink=1) (A2)
+      * [Inferior temporal cortex](/wiki/Inferior_temporal_cortex)
+      * [Posterior inferior temporal cortex](/w/index.php?title=Posterior_inferior_temporal_cortex&action=edit&redlink=1)
+    * [Gyri](/wiki/Gyri)
+      * [Superior temporal gyrus](/wiki/Superior_temporal_gyrus)
+      * [Middle temporal gyrus](/wiki/Middle_temporal_gyrus)
+      * [Inferior temporal gyrus](/wiki/Inferior_temporal_gyrus)
+      * [Fusiform gyrus](/wiki/Fusiform_gyrus)
+      * [Parahippocampal gyrus](/wiki/Parahippocampal_gyrus)
+    * [Brodmann areas](/wiki/Brodmann_area): [9](/wiki/Brodmann_area_9), [20](/wiki/Brodmann_area_20), [21](/wiki/Brodmann_area_21), [22](/wiki/Brodmann_area_22), [27](/wiki/Brodmann_area_27), [34](/wiki/Brodmann_area_34), [35](/wiki/Brodmann_area_35), [36](/wiki/Brodmann_area_36), [37](/wiki/Brodmann_area_37), [38](/wiki/Brodmann_area_38), [41](/wiki/Brodmann_area_41), [42](/wiki/Brodmann_area_42)
+    * Other 
+      * [Medial superior temporal area](/wiki/Medial_superior_temporal_area) (MST)
+  * [Insular cortex](/wiki/Insular_cortex)
+  * [Cingulate cortex](/wiki/Cingulate_cortex)
+    * [Anterior cingulate](/wiki/Anterior_cingulate)
+    * [Posterior cingulate](/wiki/Posterior_cingulate)
+    * [Retrosplenial cortex](/wiki/Retrosplenial_region)
+    * [Indusium griseum](/wiki/Indusium_griseum)
+    * [Subgenual area 25](/wiki/Subgenual_area_25)
+    * [Brodmann areas](/wiki/Brodmann_area) [23](/wiki/Brodmann_area_23), [24](/wiki/Brodmann_area_24); [26](/wiki/Brodmann_area_26), [29](/wiki/Brodmann_area_29), [30](/wiki/Brodmann_area_30) _[(retrosplenial areas)](/wiki/Retrosplenial_cortex)_; [31](/wiki/Brodmann_area_31), [32](/wiki/Brodmann_area_32)
+
+## [Neural pathways](/wiki/Neural_pathway)[[edit](/w/index.php?title=List_of_r
+egions_in_the_human_brain&action=edit&section=18)]
+
+  * [Arcuate fasciculus](/wiki/Arcuate_fasciculus)
+  * [Cerebral peduncle](/wiki/Cerebral_peduncle)
+  * [Corpus callosum](/wiki/Corpus_callosum)
+  * [Pyramidal or corticospinal tract](/wiki/Pyramidal_tract)
+  * Major dopamine pathways _[dopamine system](/wiki/Dopamine_system)_
+    * [Mesocortical pathway](/wiki/Mesocortical_pathway)
+    * [Mesolimbic pathway](/wiki/Mesolimbic_pathway)
+    * [Nigrostriatal pathway](/wiki/Nigrostriatal_pathway)
+    * [Tuberoinfundibular pathway](/wiki/Tuberoinfundibular_pathway)
+  * [Serotonin](/wiki/Serotonin) Pathways _[serotonin system](/wiki/Serotonin_system)_
+    * [Raphe Nuclei](/wiki/Raphe_Nuclei)
+  * [Norepinephrine](/wiki/Norepinephrine) Pathways 
+    * [Locus coeruleus](/wiki/Locus_coeruleus)
+
+### [Motor systems](/wiki/Muscle#motor_system)[[edit](/w/index.php?title=List_
+of_regions_in_the_human_brain&action=edit&section=19)]
+
+  * [Extrapyramidal system](/wiki/Extrapyramidal_system)
+  * [Pyramidal tract](/wiki/Pyramidal_tract)
+  * [Olivocerebellar tract](/wiki/Olivocerebellar_tract)
+  * [Alpha system](/wiki/Alpha_system)
+  * [Gamma system](/wiki/Gamma_system)
+
+### [Nerves](/wiki/Nerves)[[edit](/w/index.php?title=List_of_regions_in_the_hu
+man_brain&action=edit&section=20)]
+
+  * [Brain stem](/wiki/Brain_stem)
+    * [Cranial nerves](/wiki/Cranial_nerves)
+      * [Terminal (0)](/wiki/Cranial_nerve_0)
+      * [Olfactory (I)](/wiki/Olfactory_nerve)
+      * [Oculomotor (III)](/wiki/Oculomotor_nerve)
+      * [Trigeminal (V)](/wiki/Trigeminal_nerve)
+      * [Abducens (VI)](/wiki/Abducens_nerve)
+      * [Facial (VII)](/wiki/Facial_nerve)
+      * [Vestibulocochlear (VIII)](/wiki/Vestibulocochlear_nerve)
+      * [Glossopharyngeal (IX)](/wiki/Glossopharyngeal_nerve)
+      * [Vagus (X)](/wiki/Vagus_nerve)
+      * [Accessory (XI)](/wiki/Accessory_nerve)
+      * [Hypoglossal (XII)](/wiki/Hypoglossal_nerve)
+
+## [Neuroendocrine systems](/wiki/Endocrine)[[edit](/w/index.php?title=List_of
+_regions_in_the_human_brain&action=edit&section=21)]
+
+  * [HPA axis](/wiki/HPA_axis)
+  * [HPG axis](/wiki/HPG_axis)
+
+## [Vascular systems](/wiki/Circulatory_system)[[edit](/w/index.php?title=List
+_of_regions_in_the_human_brain&action=edit&section=22)]
+
+  * [Venous systems](/wiki/Vein)
+  * [Circle of Willis (arterial system)](/wiki/Circle_of_Willis)
+  * [Blood–brain barrier](/wiki/Blood%E2%80%93brain_barrier)
+
+## Dural meningeal system[[edit](/w/index.php?title=List_of_regions_in_the_hum
+an_brain&action=edit&section=23)]
+
+  * Brain-cerebrospinal fluid barrier
+  * [Meningeal coverings](/wiki/Meningeal_coverings)
+    * [Dura mater](/wiki/Dura_mater)
+    * [Arachnoid mater](/wiki/Arachnoid_mater)
+    * [Pia mater](/wiki/Pia_mater)
+  * [Epidural space](/wiki/Epidural_space)
+  * [Subdural space](/wiki/Subdural_space)
+  * Arachnoid septum
+  * [Ventricular system](/wiki/Ventricular_system)
+    * [Cerebrospinal fluid](/wiki/Cerebrospinal_fluid)
+      * [Subarachnoid space](/wiki/Subarachnoid_space)
+        * [Third ventricle](/wiki/Third_ventricle)
+        * [Fourth ventricle](/wiki/Fourth_ventricle)
+        * [Lateral ventricles](/wiki/Lateral_ventricles)
+          * [Anterior horn](/wiki/Anterior_horn_of_lateral_ventricle)
+          * Body of lateral ventricle
+          * Inferior horn
+          * [Posterior horn](/wiki/Posterior_horn_of_lateral_ventricle)
+        * Superior cistern
+        * [Cistern of lamina terminalis](/wiki/Cistern_of_lamina_terminalis)
+        * [Chiasmatic cistern](/wiki/Chiasmatic_cistern)
+        * [Interpeduncular cistern](/wiki/Interpeduncular_cistern)
+        * [Pontine cistern](/wiki/Pontine_cistern)
+        * [Cisterna magna](/wiki/Cisterna_magna)
+      * [Spinal subarachnoid space](/w/index.php?title=Spinal_subarachnoid_space&action=edit&redlink=1)
+
+## Related topic[[edit](/w/index.php?title=List_of_regions_in_the_human_brain&
+action=edit&section=24)]
+
+  * [Human brain](/wiki/Human_brain)
+  * [Spinal cord](/wiki/Spinal_cord)
+  * [Outline of the human nervous system](/wiki/Outline_of_the_human_nervous_system)
+  * [List of nerves of the human body](/wiki/List_of_nerves_of_the_human_body)
+
+## External links[[edit](/w/index.php?title=List_of_regions_in_the_human_brain
+&action=edit&section=25)]
+
+  * [High-Resolution Cytoarchitectural Primate Brain Atlases](http://brainmaps.org)
+  * [View information on various brain regions: images, name in seven languages, location, etc.](http://braininfo.rprc.washington.edu/)
+![](//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1)
+
+Retrieved from "[http://en.wikipedia.org/w/index.php?title=List_of_regions_in_
+the_human_brain&oldid=648606460](http://en.wikipedia.org/w/index.php?title=Lis
+t_of_regions_in_the_human_brain&oldid=648606460)"
+
+[Categories](/wiki/Help:Category):
+
+  * [Cerebrum](/wiki/Category:Cerebrum)
+  * [Brainstem](/wiki/Category:Brainstem)
+  * [Central nervous system](/wiki/Category:Central_nervous_system)
+  * [Neuroanatomy](/wiki/Category:Neuroanatomy)
+  * [Cognitive science lists](/wiki/Category:Cognitive_science_lists)
+
+Hidden categories:
+
+  * [All articles with links needing disambiguation](/wiki/Category:All_articles_with_links_needing_disambiguation)
+  * [Articles with links needing disambiguation from January 2013](/wiki/Category:Articles_with_links_needing_disambiguation_from_January_2013)
+
+## Navigation menu
+
+### Personal tools
+
+  * [Create account](/w/index.php?title=Special:UserLogin&returnto=List+of+regions+in+the+human+brain&type=signup)
+  * [Log in](/w/index.php?title=Special:UserLogin&returnto=List+of+regions+in+the+human+brain)
+
+### Namespaces
+
+  * [Article](/wiki/List_of_regions_in_the_human_brain)
+  * [Talk](/wiki/Talk:List_of_regions_in_the_human_brain)
+
+### Variants
+
+### Views
+
+  * [Read](/wiki/List_of_regions_in_the_human_brain)
+  * [Edit](/w/index.php?title=List_of_regions_in_the_human_brain&action=edit)
+  * [View history](/w/index.php?title=List_of_regions_in_the_human_brain&action=history)
+
+### More
+
+###  Search
+
+### Navigation
+
+  * [Main page](/wiki/Main_Page)
+  * [Contents](/wiki/Portal:Contents)
+  * [Featured content](/wiki/Portal:Featured_content)
+  * [Current events](/wiki/Portal:Current_events)
+  * [Random article](/wiki/Special:Random)
+  * [Donate to Wikipedia](https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&utm_medium=sidebar&utm_campaign=C13_en.wikipedia.org&uselang=en)
+  * [Wikimedia Shop](//shop.wikimedia.org)
+
+### Interaction
+
+  * [Help](/wiki/Help:Contents)
+  * [About Wikipedia](/wiki/Wikipedia:About)
+  * [Community portal](/wiki/Wikipedia:Community_portal)
+  * [Recent changes](/wiki/Special:RecentChanges)
+  * [Contact page](//en.wikipedia.org/wiki/Wikipedia:Contact_us)
+
+### Tools
+
+  * [What links here](/wiki/Special:WhatLinksHere/List_of_regions_in_the_human_brain)
+  * [Related changes](/wiki/Special:RecentChangesLinked/List_of_regions_in_the_human_brain)
+  * [Upload file](/wiki/Wikipedia:File_Upload_Wizard)
+  * [Special pages](/wiki/Special:SpecialPages)
+  * [Permanent link](/w/index.php?title=List_of_regions_in_the_human_brain&oldid=648606460)
+  * [Page information](/w/index.php?title=List_of_regions_in_the_human_brain&action=info)
+  * [Wikidata item](//www.wikidata.org/wiki/Q3245053)
+  * [Cite this page](/w/index.php?title=Special:CiteThisPage&page=List_of_regions_in_the_human_brain&id=648606460)
+
+### Print/export
+
+  * [Create a book](/w/index.php?title=Special:Book&bookcmd=book_creator&referer=List+of+regions+in+the+human+brain)
+  * [Download as PDF](/w/index.php?title=Special:Book&bookcmd=render_article&arttitle=List+of+regions+in+the+human+brain&oldid=648606460&writer=rdf2latex)
+  * [Printable version](/w/index.php?title=List_of_regions_in_the_human_brain&printable=yes)
+
+### Languages
+
+  * [Français](//fr.wikipedia.org/wiki/Liste_de_r%C3%A9gions_du_cerveau_humain)
+  * [Русский](//ru.wikipedia.org/wiki/%D0%A1%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D1%8B_%D0%BC%D0%BE%D0%B7%D0%B3%D0%B0)
+  * [Edit links](//www.wikidata.org/wiki/Q3245053#sitelinks-wikipedia)
+
+  * This page was last modified on 24 February 2015, at 09:41.
+  * Text is available under the [Creative Commons Attribution-ShareAlike License](//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License); additional terms may apply. By using this site, you agree to the [Terms of Use](//wikimediafoundation.org/wiki/Terms_of_Use) and [Privacy Policy](//wikimediafoundation.org/wiki/Privacy_policy). Wikipedia® is a registered trademark of the [Wikimedia Foundation, Inc.](//www.wikimediafoundation.org/), a non-profit organization.
+  * [Privacy policy](//wikimediafoundation.org/wiki/Privacy_policy)
+  * [About Wikipedia](/wiki/Wikipedia:About)
+  * [Disclaimers](/wiki/Wikipedia:General_disclaimer)
+  * [Contact Wikipedia](//en.wikipedia.org/wiki/Wikipedia:Contact_us)
+  * [Developers](https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute)
+  * [Mobile view](//en.m.wikipedia.org/w/index.php?title=List_of_regions_in_the_human_brain&mobileaction=toggle_view_mobile)
+  * ![Wikimedia Foundation](//bits.wikimedia.org/images/wikimedia-button.png)
+  * ![Powered by MediaWiki](//bits.wikimedia.org/static-1.25wmf20/resources/assets/poweredby_mediawiki_88x31.png)
+
